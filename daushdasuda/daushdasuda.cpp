@@ -3,6 +3,7 @@
 
 #include <iostream>
 #include "teto.h"
+#include "buinagolova.h"
 
 
 int main()
@@ -85,4 +86,5 @@ int main()
     std::cout << five << "/" << eight << "=" << five / eight << "\n";
 
     teto();
+    yabyk();
 };
