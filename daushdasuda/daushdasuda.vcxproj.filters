@@ -21,9 +21,15 @@
     <ClCompile Include="teto.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="buinagolova.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="teto.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="buinagolova.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

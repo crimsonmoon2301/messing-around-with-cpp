@@ -17,5 +17,13 @@ int teto() {
 		startnum++;
 	}
 	std::cout << "Final number: " << startnum << "\n";
+	std::cout << "---------------------\n";
+	std::cout << "Number after incrementing: " << startnum << "\n";
+	for (int i = 0; i < count; i++)
+	{
+		std::cout << "Deincrementing number by " << i << "=" << startnum << "\n";
+		startnum--;
+	}
+	std::cout << "Final number after deincrementing: " << startnum << "\n";
 	return 0;
 }
