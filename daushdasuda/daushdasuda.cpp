@@ -2,6 +2,8 @@
 //
 
 #include <iostream>
+#include "teto.h"
+
 
 int main()
 {
@@ -81,4 +83,6 @@ int main()
     std::cout << five << "/" << seven << "=" << five / seven << "\n";
     std::cout << dub1 << "/" << seven << "=" << dub1 / seven << "\n";
     std::cout << five << "/" << eight << "=" << five / eight << "\n";
+
+    teto();
 };

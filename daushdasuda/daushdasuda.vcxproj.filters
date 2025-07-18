@@ -18,5 +18,13 @@
     <ClCompile Include="daushdasuda.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="teto.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="teto.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

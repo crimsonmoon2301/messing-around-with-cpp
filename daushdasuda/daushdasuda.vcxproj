@@ -124,6 +124,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="daushdasuda.cpp" />
+    <ClCompile Include="teto.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="teto.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
