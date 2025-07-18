@@ -8,11 +8,14 @@ int teto() {
 
 	int count = 3;
 
+	std::cout << "---------------------\n";
+	std::cout << "Beginning number: " << startnum << "\n";
+
 	for (int i = 0; i < count; i++)
 	{
 		std::cout << "Incrementing number by "<<i <<"=" << startnum << "\n";
 		startnum++;
 	}
-
+	std::cout << "Final number: " << startnum << "\n";
 	return 0;
 }
