@@ -24,12 +24,24 @@
     <ClCompile Include="buinagolova.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="numswap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="teto.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="buinagolova.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="numswap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="area.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

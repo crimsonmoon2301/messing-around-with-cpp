@@ -123,12 +123,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ar.cpp" />
     <ClCompile Include="buinagolova.cpp" />
     <ClCompile Include="daushdasuda.cpp" />
+    <ClCompile Include="numswap.cpp" />
     <ClCompile Include="teto.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="area.h" />
     <ClInclude Include="buinagolova.h" />
+    <ClInclude Include="numswap.h" />
     <ClInclude Include="teto.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
